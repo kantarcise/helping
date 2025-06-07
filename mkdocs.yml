@@ -4,5 +4,8 @@ theme:
   palette:
     primary: indigo
     accent: light blue
+  font:
+    text: EB Garamond
+  favicon: assets/revolving_hearts.png
 nav:
   - Home: index.md
