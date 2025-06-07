@@ -1,69 +1,80 @@
 # Helping
 
-I wanted to make the headline of this ***Helping Others***.
+I initially wanted to call this ***Helping Others***.
 
-Decided not to, because when you are able to help others you are really helping yourself.
+But I decided not to—because when you’re able to help others, you’re also helping yourself.
 
-> Is what you receive back is proportional to what you deliver?  
-> **The answer might be yes. That’s a terrifying idea.**
+> Is what you receive back proportional to what you deliver?  
+> **The answer might be yes. That’s a terrifying idea.**  
 > — Jordan Peterson, [19 August 2022](https://youtu.be/sY8aFSY2zv4?t=10705)
 
-Back in 2018 I was working tirelessly on the different courses I got.
+---
 
-One of them was about control systems.
+Back in 2018, I was working tirelessly on the courses I had taken. One of them was about [control systems](https://kontrol.itu.edu.tr/docs/librariesprovider23/ders-kataloglari/kon317e.pdf?sfvrsn=2c0ed346_2).
 
-The content was not the hardest, but in order to understand what’s expected of you you needed to have a idea on how to analyze and construct control systems.
+The material wasn’t the hardest on paper, but to truly understand what was expected, you needed a working intuition—how to analyze and construct control systems from scratch.
 
-I was pretty novice on resource management (attention, time, money) back than.
+I was quite a novice at resource management (attention, time, and money) back then.
 
-I knew that there was a book on the course content which would help me a lot but it wasn’t a cheap one.
+I knew there was a book that could help a lot. But it wasn’t cheap.
 
-The ones on the library was reserved always.
+And the few copies in the library were always checked out.
 
-One evening I was in the study hall that we have in the faculty, kinda curiously wondering in between bookshelves.
+One evening, I found myself wandering through our faculty’s quiet study hall—curious, tired, and looking for some kind of help.
 
 ![The Magical Place](images/omer_korzay.jpg)
 
-There it was!
+And there it was.
 
-The book that I was looking for was in the top shelf, just waiting for me to find it.
+The exact book I had been searching for, tucked away on the top shelf.
 
-It was a book that a graduate student left, and it had all the questions and additional notes inside for me to study.
+It had clearly belonged to a graduate student.
 
-I’ve **never** forgot the gratitude I’ve felt in that moment.
+Inside were not just the contents of the course—but their own notes, questions, and highlights.
 
-After the finals, I left the book where I found but never left the story.
+It felt like a small miracle.
 
-…
+A secret hand reaching out from the past to help me.
 
-2 weeks ago (May 2025), I executed on my long planned idea to pay this gratitude back.
+I’ve **never** forgotten the gratitude I felt in that moment.
 
-I had all the handwritten course notes that I’ve taken in my undergraduate years gathered in a single place.
+After finals, I returned the book to where I found it. But I never let go of the story.
+
+---
+
+Two weeks ago (May 2025), I finally acted on a long-standing idea—to pay that gratitude forward.
+
+I gathered all the handwritten course notes I had kept from my undergraduate years.
 
 ![Handwritten notes](images/the_stack.png)
 
-Course by course, separated by bags which has teddy bears and hearts on top.
+Course by course, organized into bags covered with teddy bears and hearts.
 
-All the notes I’ve taken in preparation for midterms and finals.
-
-Everything I’ve made as an undergraduate.
+All my midterm notes, final prep sheets, summaries. Almost everything I had built as a student.
 
 ![Packaged](images/sneak_peak.png)
 
-I knew the perfect spot to put these.
+And I knew exactly where to place them.
 
-The big magazine shelve at the entrance to our building.
+The big magazine shelf at the entrance of our building.
 
 ![Entrance](images/entrance.png)
 
-I tidied up all the existing old notes in it, cleaned the selves a bit and arranged all the notes as eye catching as possible.
+I cleaned the dust, removed outdated materials, and arranged the notes to be as eye-catching—and inviting—as possible.
 
-![Entrance](images/the_gift.png)
+![The Gift](images/the_gift.png)
 
-I’ve left a note saying:
+I left this note:
 
-> Feel free to use these as you wish. If you find it valuable, please consider sharing it with others too.
+> Feel free to use these as you wish.  
+> If you find them valuable, please consider sharing them with others too.
 
-The world needs kindness. And kindness results in more kindness.  
+---
 
-All you need to do is to find your way of kindness.
+This is a reminder for anyone who wants to live a good life—myself included.
+
+The world needs kindness.
+
+And kindness leads to more kindness.
+
+All you need to do is find *your* way of being kind.
