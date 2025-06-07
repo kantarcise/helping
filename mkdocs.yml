@@ -1,0 +1,8 @@
+site_name: Helping
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: light blue
+nav:
+  - Home: index.md
