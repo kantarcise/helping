@@ -52,7 +52,9 @@ I gathered all the handwritten course notes I had kept from my undergraduate yea
 
 Course by course, organized into bags covered with teddy bears and hearts.
 
-All my midterm notes, final prep sheets, summaries. Almost everything I had built as a student.
+All my midterm notes, final prep sheets, summaries.
+
+Almost everything I had built as a student.
 
 ![Packaged](images/sneak_peak.png)
 
