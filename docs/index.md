@@ -2,7 +2,9 @@
 
 I initially wanted to call this ***Helping Others***.
 
-But I decided not to—because when you’re able to help others, you’re also helping yourself.
+But decided not to.
+
+Because when you’re able to help others, you’re also helping yourself.
 
 > Is what you receive back proportional to what you deliver?  
 > **The answer might be yes. That’s a terrifying idea.**  
@@ -10,7 +12,7 @@ But I decided not to—because when you’re able to help others, you’re also 
 
 ---
 
-Back in 2018, I was working tirelessly on the courses I had taken. One of them was about [control systems](https://kontrol.itu.edu.tr/docs/librariesprovider23/ders-kataloglari/kon317e.pdf?sfvrsn=2c0ed346_2).
+Back in 2018, I was working tirelessly on the courses I had taken at [ITU](https://www.itu.edu.tr/en/homepage). One of them was about [control systems](https://kontrol.itu.edu.tr/docs/librariesprovider23/ders-kataloglari/kon317e.pdf?sfvrsn=2c0ed346_2).
 
 The material wasn’t the hardest on paper, but to truly understand what was expected, you needed a working intuition—how to analyze and construct control systems from scratch.
 
@@ -24,7 +26,7 @@ One evening, I found myself wandering through our faculty’s quiet study hall�
 
 ![The Magical Place](images/omer_korzay.jpg)
 
-And there it was.
+And there it was. ✨
 
 The exact book I had been searching for, tucked away on the top shelf.
 
@@ -73,9 +75,7 @@ I left this note:
 
 This is a reminder for anyone who wants to live a good life—myself included.
 
-The world needs kindness.
-
-And kindness leads to more kindness.
+The world needs kindness. And kindness leads to more of it.
 
 All you need to do is find *your* way of being kind.
 
