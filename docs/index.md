@@ -16,7 +16,7 @@ Back in 2018, I was working tirelessly on the courses I had taken at [ITU](https
 
 The material wasn’t the hardest on paper, but to truly understand what was expected, you needed a working intuition—how to analyze and construct control systems from scratch.
 
-I was quite a novice at resource management (attention, time, and money) back then.
+I was quite a novice at resource management (attention, time & money) back then.
 
 I knew there was a book that could help a lot. But it wasn’t cheap.
 
