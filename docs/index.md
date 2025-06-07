@@ -78,3 +78,7 @@ The world needs kindness.
 And kindness leads to more kindness.
 
 All you need to do is find *your* way of being kind.
+
+---
+
+Back to [home page](https://www.kantarcise.com/).
